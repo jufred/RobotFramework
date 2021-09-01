@@ -11,7 +11,7 @@ Default Tags    UnitTest
 *** Test Cases ***
 MyFirstTest
     [Tags]    Fast
-    Log    Hello new world...
+    Log    Log    Hello new world...
     
 
     
